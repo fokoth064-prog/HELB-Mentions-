@@ -1,5 +1,5 @@
-print("streamlit")
-print("pandas")
-print("plotly")
-print("gspread")
-print("gspread-dataframe")
+streamlit
+pandas
+plotly
+gspread
+gspread-dataframe
